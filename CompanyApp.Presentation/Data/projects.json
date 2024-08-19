@@ -1,0 +1,49 @@
+[
+  {
+    "Id": 1,
+    "Title": "Clean OpenSpace",
+    "Profit": 20000
+  },
+
+  {
+    "Id": 2,
+    "Title": "Clean gym",
+    "Profit": 25000
+  },
+
+  {
+    "Id": 3,
+    "Title": "Crypto bot",
+    "Profit": 18000000
+  },
+
+  {
+    "Id": 4,
+    "Title": "Site for shopping",
+    "Profit": 2000000
+  },
+
+  {
+    "Id": 5,
+    "Title": "Machine learning",
+    "Profit": 45000000
+  },
+
+  {
+    "Id": 6,
+    "Title": "3D model",
+    "Profit": 750000
+  },
+
+  {
+    "Id": 7,
+    "Title": "New advertisement for site",
+    "Profit": 440000
+  },
+
+  {
+    "Id": 8,
+    "Title": "New advertisement strategy",
+    "Profit": 850000
+  }
+]

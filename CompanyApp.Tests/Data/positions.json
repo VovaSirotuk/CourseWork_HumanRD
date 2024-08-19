@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Title": "Manager",
+    "Salary": 121000,
+    "WorkingHours": 14
+  },
+
+  {
+    "Id": 2,
+    "Title": "Targetolog",
+    "Salary": 1500,
+    "WorkingHours": 2
+  },
+
+  {
+    "Id": 3,
+    "Title": "System Admin",
+    "Salary": 3300,
+    "WorkingHours": 4
+  },
+
+  {
+    "Id": 4,
+    "Title": "Sales Manager",
+    "Salary": 1200,
+    "WorkingHours": 12
+  },
+
+  {
+    "Id": 5,
+    "Title": "Senior Developer",
+    "Salary": 5000,
+    "WorkingHours": 6
+  },
+
+  {
+    "Id": 6,
+    "Title": "Middle Developer",
+    "Salary": 3000,
+    "WorkingHours": 8
+  },
+
+  {
+    "Id": 7,
+    "Title": "Team Lead",
+    "Salary": 155000,
+    "WorkingHours": 8
+  },
+
+  {
+    "Id": 8,
+    "Title": "Clean Manager",
+    "Salary": 1000,
+    "WorkingHours": 10
+  }
+
+]

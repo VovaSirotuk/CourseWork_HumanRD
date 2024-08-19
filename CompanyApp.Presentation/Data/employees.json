@@ -1,0 +1,138 @@
+[
+  {
+    "Id": 1,
+    "Experience": 1,
+    "FirstName": "Stepan",
+    "LastName": "Bond",
+    "PositionId": 1,
+    "DivisionId": 1
+  },
+  {
+    "Id": 2,
+    "Experience": 3,
+    "FirstName": "Marichka",
+    "LastName": "Courtois",
+    "PositionId": 3,
+    "DivisionId": 2
+  },
+  {
+    "Id": 3,
+    "Experience": 2,
+    "FirstName": "Sergio",
+    "LastName": "Ramos",
+    "PositionId": 7,
+    "DivisionId": 3
+  },
+  {
+    "Id": 4,
+    "Experience": 1,
+    "FirstName": "Nelson",
+    "LastName": "Hakimi",
+    "PositionId": 2,
+    "DivisionId": 1
+  },
+  {
+    "Id": 5,
+    "Experience": 2,
+    "FirstName": "Marko",
+    "LastName": "Veratti",
+    "PositionId": 5,
+    "DivisionId": 2
+  },
+  {
+    "Id": 6,
+    "Experience": 2,
+    "FirstName": "Olena",
+    "LastName": "Bernat",
+    "PositionId": 8,
+    "DivisionId": 3
+  },
+  {
+    "Id": 7,
+    "Experience": 7,
+    "FirstName": "Andrew",
+    "LastName": "Messi",
+    "PositionId": 4,
+    "DivisionId": 1
+  },
+  {
+    "Id": 8,
+    "Experience": 5,
+    "FirstName": "Dmytro",
+    "LastName": "Neymar",
+    "PositionId": 7,
+    "DivisionId": 2
+  },
+  {
+    "Id": 9,
+    "Experience": 3,
+    "FirstName": "Ostap",
+    "LastName": "Mbappe",
+    "PositionId": 8,
+    "DivisionId": 3
+  },
+  {
+    "Id": 10,
+    "Experience": 9,
+    "FirstName": "Taras",
+    "LastName": "Bulba",
+    "PositionId": 4,
+    "DivisionId": 1
+  },
+  {
+    "Id": 11,
+    "Experience": 1,
+    "FirstName": "Ira",
+    "LastName": "Sloboda",
+    "PositionId": 6,
+    "DivisionId": 2
+  },
+  {
+    "Id": 12,
+    "Experience": 10,
+    "FirstName": "Mariya",
+    "LastName": "Pryadko",
+    "PositionId": 8,
+    "DivisionId": 3
+  },
+  {
+    "Id": 13,
+    "Experience": 1,
+    "FirstName": "Stepan",
+    "LastName": "Giga",
+    "PositionId": 2,
+    "DivisionId": 1
+  },
+  {
+    "Id": 14,
+    "Experience": 2,
+    "FirstName": "Anatoliy",
+    "LastName": "Muza",
+    "PositionId": 1,
+    "DivisionId": 3
+  },
+  {
+    "Id": 16,
+    "Experience": 10,
+    "FirstName": "Andriy",
+    "LastName": "Duda",
+    "PositionId": 6,
+    "DivisionId": 2
+  },
+  {
+    "Id": 16,
+    "Experience": 5,
+    "FirstName": "Saske ",
+    "LastName": "Utiha",
+    "PositionId": 2,
+    "DivisionId": 1
+  },
+  {
+    "Id": 17,
+    "Experience": 5,
+    "FirstName": "Vova",
+    "LastName": "Sirotiuk",
+    "PositionId": 7,
+    "DivisionId": 2
+  }
+]
